@@ -64,7 +64,6 @@ subject
 This is a Numeric value indicating the Subject Number
 
 activity
-
 This is a Factor variable with the following values: 
 STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
