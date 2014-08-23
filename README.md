@@ -30,6 +30,10 @@ This is my repository for the "Getting and Cleaning Data" course project on Cour
 * tidyData.txt
 
     This is a dump of the cleaned, processed data in TXT/fixed width format required by the project.
+    
+* code_book.txt
+
+  This is a listing of each variable in the output data file and what it represents.
   
   
 ### run_analysis.R
