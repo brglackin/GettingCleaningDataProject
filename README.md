@@ -33,7 +33,7 @@ This is my repository for the "Getting and Cleaning Data" course project on Cour
     
 * code_book.md
 
-  This is the code book for the tidayData dataset.
+  This is the code book for the tidyData dataset.
   
   
 ### run_analysis.R
